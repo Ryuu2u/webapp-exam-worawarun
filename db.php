@@ -38,4 +38,4 @@ try {
     exit;
 } catch (PDOException $e) {
     echo "Error: " . $e->getMessage();
-}git add README.md
+}

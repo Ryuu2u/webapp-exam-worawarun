@@ -6,7 +6,7 @@
 </head>
 <body>
     <h2>เพิ่มผู้ใช้</h2>
-    <<form action="db.php" method="post" enctype="multipart/form-data">
+    <form action="db.php" method="post" enctype="multipart/form-data">
         <p>Student ID: <input type="text" name="student_id" required></p>
         <p>Full Name: <input type="text" name="full_name" required></p>
         <p>Email: <input type="email" name="email" required></p>
